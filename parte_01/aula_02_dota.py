@@ -10,7 +10,6 @@ dados = requests.get(url).json()
 dados
 
 # %%
-
 len(dados)
 
 # %%

@@ -16,6 +16,7 @@ meu_dict = {
         {"nome": "sql", "nivel": "intermediario"},
         {"nome": "estatística", "nivel": "iniciante"},
     ],
+    0:"Nada"
 }
 
 meu_dict["skills"][2]

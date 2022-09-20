@@ -1,8 +1,5 @@
 #%%
 
-from dataclasses import dataclass
-
-
 valores = []
 
 # %%
