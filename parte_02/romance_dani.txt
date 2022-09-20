@@ -1,0 +1,11 @@
+Meu nome é {nome}
+
+tenho {anos} anos
+
+era um belo dia
+
+de chuva
+
+intensa
+
+eu sou {prof}.
