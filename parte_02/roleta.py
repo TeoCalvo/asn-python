@@ -1,6 +1,7 @@
+
 def pega_numero(intervalo=[1,15]):
     a,b, *_ = intervalo
-    texto = f"Escolha seu número da sorte [{a}; {b}] : "
+    texto = f"Escolha seu número da sorte [{a}; {b}]: "
     numero = input(texto)
     numero = int(numero)
     return numero
