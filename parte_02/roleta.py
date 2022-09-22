@@ -27,12 +27,14 @@ def check_number(numero_sorte, roleta):
         print("Você Errou!! Tente um número maior!")
         return False
 
+
 tentativas = 3
 roleta = 10
 
 for i in range(tentativas):
     numero_sorte = get_valid_number("Entre com um numero entre 1 e 10: ")
     check = check_number(numero_sorte, roleta)
+    
     if check == True:
         break
     else:
